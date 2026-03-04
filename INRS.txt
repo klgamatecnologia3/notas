@@ -1,0 +1,18 @@
+O Inventário Nacional de Resíduos Sólidos (INRS)
+
+é um documento técnico obrigatório que
+reúne dados sobre a geração, tipos, armazenamento, transporte e destinação final de resíduos gerados por indústrias no Brasil.
+
+Ele é preenchido anualmente no sistema SINIR até 31 de março, refletindo os dados do ano anterior. 
+
+O que é: Um conjunto de informações essenciais para o diagnóstico da gestão de resíduos sólidos no país.
+
+Finalidade: Registrar de forma detalhada o "raio-x" do passivo ambiental da organização, garantindo conformidade legal e ambiental.
+
+Obrigatoriedade: As indústrias geradoras devem se cadastrar e declarar as informações, complementar ao Manifesto de Transporte de Resíduos (MTR).
+
+Base Legal: Regulamentado principalmente pela Resolução CONAMA nº 313/2002 e Portaria MMA nº 280/2020.
+
+Onde declarar: As informações são enviadas online, gratuitamente, por meio do sistema SINIR (Sistema Nacional de Informações sobre a Gestão de Resíduos Sólidos).
+
+O inventário é um instrumento da Política Nacional de Resíduos Sólidos (PNRS) que ajuda a garantir o descarte adequado e o controle dos resíduos, especialmente os industriais. 

@@ -1,0 +1,16 @@
+O SINIR (Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos)
+é uma plataforma governamental brasileira criada pela Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010).
+
+Ele coleta, sistematiza e disponibiliza dados sobre a geração, transporte e destinação final de resíduos, auxiliando no monitoramento e planejamento de políticas públicas ambientais.
+
+Principais detalhes sobre o SINIR:
+
+    Objetivo: Centralizar informações para monitorar a gestão de resíduos, incluindo dados de municípios, estados e empresas.
+
+    MTR e Inventário: É obrigatório o uso do sistema para emissão do Manifesto de Transporte de Resíduos (MTR) e o preenchimento anual do Inventário Nacional de Resíduos Sólidos pelas indústrias.
+
+    Gestão: Gerenciado pelo Ministério do Meio Ambiente e Mudança do Clima.
+    
+    Funcionamento: Permite a integração de dados de logística reversa, soluções compartilhadas e relatórios gerenciais para todo o Brasil. 
+
+O sistema facilita a transparência e ajuda a avaliar a implementação da Política Nacional de Resíduos Sólidos, permitindo a emissão de relatórios e diagnósticos sobre a situação dos resíduos no país.

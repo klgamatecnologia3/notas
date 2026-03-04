@@ -1,0 +1,40 @@
+O Manifesto de Transporte de Resíduos (MTR)
+
+é um documento digital obrigatório no Brasil,
+emitido via Sinir (Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos),
+que rastreia resíduos desde a geração até a destinação final.
+
+Ele detalha o gerador, transportador, destinador e o tipo de resíduo, garantindo conformidade legal e ambiental. 
+
+Principais Aspectos do MTR:
+
+    Obrigatoriedade: Obrigatório para quase todas as atividades que geram resíduos sólidos (exceto domésticos).
+
+    Emissão: Deve ser gerado pelo gerador do resíduo, com validação do transportador e do destinador.
+
+    Rastreabilidade: Permite ao órgão ambiental monitorar o transporte e a destinação correta.
+
+    Vida Útil: O MTR tem validade de até 90 dias para a destinação final.
+
+    Penalidades: A falta do MTR ou irregularidades podem acarretar multas, advertências e até suspensão das atividades, conforme o Decreto Federal n° 6.514/2008. 
+
+Funcionamento e Componentes:
+
+    Transportador: Deve portar o documento durante todo o trajeto para fins de fiscalização.
+    Destinador: Após receber o resíduo, tem o prazo para "dar baixa" no MTR e emitir o Certificado de Destinação Final (CDF).
+    Estados com Sistema Próprio: Estados como Rio de Janeiro e outros podem utilizar sistemas estaduais, integrados ao SINIR. 
+
+A correta utilização do MTR é fundamental para garantir a segurança no manuseio e descarte de resíduos, evitando contaminações e garantindo que empresas operem de forma legal.
+
+------------------
+Porte pelo transportador:
+
+Mesmo sendo digital, o MTR (Manifesto de Transporte de Resíduos) deve estar disponível durante o transporte.
+
+    O transportador deve:
+
+    Portar o MTR em formato digital (no celular, tablet ou outro dispositivo com acesso ao sistema).
+    Garantir que consiga apresentar o documento em caso de fiscalização.
+    Se exigido pelo órgão ambiental estadual, portar também uma cópia impressa.
+
+No Brasil, o controle é feito pelo Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (SINIR).

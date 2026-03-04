@@ -1,0 +1,19 @@
+O CTF/APP (Cadastro Técnico Federal de Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais)
+é um sistema obrigatório do IBAMA
+que registra pessoas físicas e jurídicas cujas atividades podem causar impactos ambientais.
+
+Ele serve para fiscalização, gestão ambiental e emissão de Certificado de Regularidade. 
+
+Pontos importantes sobre o CTF/APP:
+
+Obrigatoriedade: Necessário para indústrias, comércios, transportes e outras atividades listadas no Anexo I da Instrução Normativa nº 13/2021.
+
+Finalidade: O Ibama utiliza o cadastro para monitorar atividades como extração, produção, transporte e comercialização de produtos perigosos ou derivados de fauna e flora.
+
+RAPP: Cadastrados devem preencher o Relatório Anual de Atividades Potencialmente Poluidoras (RAPP), essencial para evitar multas.
+
+Diferença: O CTF/APP é para atividades poluidoras, enquanto o CTF/AIDA é para consultoria técnica e defesa ambiental. 
+
+---
+
+Para realizar o cadastro, é necessário acessar o portal GOV.BR com a conta Gov.br

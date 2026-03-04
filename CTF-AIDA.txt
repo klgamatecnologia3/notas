@@ -1,0 +1,22 @@
+O CTF/AIDA (Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental)
+é um registro obrigatório no Ibama para pessoas físicas e jurídicas
+que prestam consultoria técnica sobre problemas ambientais
+ou atuam no comércio/indústria de equipamentos de controle ambiental.
+
+Ele gerencia quem protege o meio ambiente, diferenciando-se do CTF/APP (potencialmente poluidoras). 
+
+Pontos-chave sobre o CTF/AIDA:
+
+Finalidade: Identificar e monitorar consultores, empresas de monitoramento ambiental e fabricantes de equipamentos de proteção (filtros, tratamento de efluentes, etc.).
+
+Quem deve se inscrever: Consultores ambientais, empresas de engenharia ambiental, laboratórios de análises ambientais e fabricantes/comerciantes de instrumentos de defesa ambiental.
+
+Obrigatoriedade: É instituído pela Lei da Política Nacional do Meio Ambiente (6.938/1981) e normatizado pela Instrução Normativa Ibama nº 12/2021.
+
+Validade: A inscrição no CTF/AIDA deve ser mantida regular e atualizada, sendo necessária para o exercício legal da profissão ou atividade.
+
+Diferença: O CTF/AIDA foca na defesa/controle (consultorias, técnicos), enquanto o CTF/APP foca no potencial de poluição (indústrias, mineradoras). 
+
+---
+
+O cadastro é gratuito e realizado online pelo portal de Serviços do Ibama. O não cumprimento gera multas e o não recebimento do Certificado de Regularidade.

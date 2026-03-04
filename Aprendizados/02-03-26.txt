@@ -1,0 +1,19 @@
+Lição: A Task é a minha segurança.
+
+Explicação: Se eu tiver um prazo e não tiver como tirar dúvidas porque quem poderia sanar elas ficou inacessível (final de semana, por exemplo), devo fazer as coisas conforme a task passada. Se lá estiver errado, eu poderei argumentar com base nela.
+
+Origem: Gustavo Dev Senior.
+
+----------------------------------------
+Lição: Ambientes (Dev, Homologação - QA, Produção)
+
+Explicação: Existem 3 ambientes: 
+
+- Dev (editável, etc)
+- Homologação (É do time de QA, somente consulta para devs)
+- Produção (somente consulta para devs)
+
+Origem: Gustavo Dev Senior.
+
+----------------------------------------
+SDK: Software Development Kit

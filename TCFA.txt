@@ -1,0 +1,15 @@
+A Taxa de Controle e Fiscalização Ambiental (TCFA)
+é um tributo federal obrigatório
+devido por empresas que exercem atividades potencialmente poluidoras ou utilizadoras de recursos naturais, conforme a Lei nº 6.938/1981.
+
+Ela financia as atividades de fiscalização do Ibama e seu valor é calculado com base no porte da empresa e no grau de potencial poluidor. 
+
+Finalidade: Custeia o poder de polícia ambiental do Ibama.
+
+Quem deve pagar: Empresas cadastradas no CTF/APP (Cadastro Técnico Federal de Atividades Potencialmente Poluidoras) do Ibama.
+
+Valor: Definido trimestralmente pelo cruzamento do porte da empresa (micro, pequena, média, grande) com o potencial poluidor da atividade.
+
+Quando pagar: A cobrança é trimestral, sendo os vencimentos geralmente no 5º dia útil do mês subsequente ao trimestre vencido. 
+
+Ponto Importante: A TCFA não é uma multa nem uma licença, mas sim um tributo necessário para empresas que, mesmo sem cometer infrações, realizam atividades de impacto ambiental. A falta de pagamento pode resultar na inscrição da empresa em dívida ativa.

@@ -1,0 +1,12 @@
+Lição: Ao usar IA para coletar dados não coletar diretamente, solicitar a geração de um script
+
+Explicação: Se for coletar dados com a IA, por ela ser um LLM e retornar dados por probabilidade, isso pode ocasionar falha na cópia dos dados, como por exemplo a adição de um caractere extra. Para resolver isso, o correto é solicitar um script.
+
+Origem: Gustavo Dev Senior.
+
+----------------------------------------
+Lição: Evitar colocar dados do banco de dados na IA.
+
+Explicação: Para evitar riscos, ao invés de colocar dados na IA, explicar para ela qual a situação e solicitar os códigos necessários sem fornecer a ela os dados/valores.
+
+Origem: Gustavo Dev Senior.

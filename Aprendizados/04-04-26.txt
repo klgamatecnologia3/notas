@@ -1,0 +1,72 @@
+Lição: jsonb é json binário no PostgreSQL, é um JSON otimizado para banco de dados.
+
+Diferença principal:
+
+    Tipo	Como guarda 	    Vantagem
+
+    json	texto puro	        mantém formato original
+    jsonb	formato binário	    mais rápido para consulta e indexação
+
+---
+
+SELECT data->>'nome' FROM tabela;
+
+Com jsonb isso é mais eficiente e pode ter index.
+
+Origem: ChatGPT
+
+----------------------------------------
+Lição: O prefixo _ é como o PostgreSQL representa arrays internamente.
+
+Exemplo: _jsonb é como jsonb[] (um array de jsonb)
+
+Origem: ChatGPT
+
+----------------------------------------
+Lição: Prefira usar jsonb[] ao escrever SQL
+
+Explicação: O banco registra jsonb[] como _jsonb, mas escrever _jsonb diretamente não é tão eficaz. Portanto, prefira escrever jsonb[]
+
+Resumo:
+    jsonb[] é a forma normal em SQL para array de JSONB.
+    _jsonb é o nome interno do tipo usado pelo PostgreSQL no catálogo.
+    Ambos representam array de jsonb.
+    No SQL, prefira usar jsonb[].
+
+Origem: ChatGPT
+
+----------------------------------------
+Lição: :: (dois pontos) em PostgreSQL é "cast", e "cast" é conversão de tipo.
+
+Explicação: 
+
+    :: é cast no PostgreSQL (conversão de tipo).
+    Ex: 
+    
+        'CNPJ'::text  
+    
+    é igual a converter 'CNPJ' para text.
+    
+    Equivale a CAST('CNPJ' AS text).
+    Geralmente não é obrigatório, pois o PostgreSQL faz conversão automática.
+
+É parecido com parse/conversão de tipo.
+
+Exemplos equivalentes:
+
+    PostgreSQL: '10'::int
+    JavaScript: parseInt('10')
+    Python: int('10')
+
+    Todos convertem um valor para outro tipo.
+
+Origem: ChatGPT
+----------------------------------------
+Lição: O que
+
+Explicação: 
+
+Origem: ChatGPT
+
+
+

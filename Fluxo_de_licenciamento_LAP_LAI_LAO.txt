@@ -1,0 +1,31 @@
+O Fluxo de Licenciamento (O "Caminho"):
+Para qualquer uma delas, você seguirá este diagrama de etapas:
+
+    LAP (Licença Ambiental Prévia): Aprova a localização e a viabilidade (Diz: "Pode ser feito aqui").
+
+    LAI (Licença Ambiental de Instalação): Autoriza a construção (Diz: "Pode construir").
+
+    LAO (Licença Ambiental de Operação): Autoriza o funcionamento (Diz: "Pode abrir as portas").
+
+Resumindo: Se você quer abrir algo poluidor em Criciúma, primeiro consulta a FAMCRI. Se eles disserem que o porte é grande demais para eles, você vai à Gerência Regional do IMA (que fica ali no centro de Criciúma, na Rua Felipe Schmidt).
+
+---------------
+Qual define o licenciamento para uma atividade Potencialmente Poluidora? O fluxo é:
+
+O CONSEMA (Estado) publica uma lista dizendo quais atividades são de "Impacto Local".
+
+Se a sua atividade estiver nessa lista, você resolve tudo na FAMCRI (sob as diretrizes do COMDEMA).
+
+Se a atividade for considerada de grande impacto, você ignora o município e vai direto para o IMA (sob as diretrizes do CONSEMA).
+
+Em resumo:
+
+Regra estadual / Grande poluidor = CONSEMA.
+
+Regra da cidade / Pequeno poluidor = COMDEMA.
+
+---
+
+No nível federal, o equivalente ao CONSEMA e ao COMDEMA é o CONAMA (Conselho Nacional do Meio Ambiente).
+
+Para atividades Potencialmente Poluidoras, a hierarquia dos conselhos funciona assim:1. CONAMA (Federal)Onde: Brasília (Ministério do Meio Ambiente).O que faz: Cria as Resoluções CONAMA (como a famosa 237/97). Elas valem para o Brasil inteiro.Papel: Define os padrões nacionais (ex: limites de emissão de fumaça, ruído, o que precisa de Estudo de Impacto Ambiental - EIA/RIMA).A Regra de Ouro (Quem decide quem licencia?)Para saber se você vai ao IBAMA (Federal), ao IMA (Estadual) ou à FAMCRI (Municipal), a regra federal é a Lei Complementar 140/2011:NívelConselho (Normativo)Órgão (Executor)Quando atua?FederalCONAMAIBAMAGrandes obras (Ferrovias, Portos, Energia Nuclear, Impacto em 2+ estados).EstadualCONSEMAIMA-SCAtividades de médio/grande porte ou que afetam mais de um município.LocalCOMDEMAFAMCRIAtividades de Impacto Local (conforme definido pelo CONSEMA).Resumindo:Se a sua atividade for potencialmente poluidora:O CONAMA dá a regra geral (Brasil).O CONSEMA diz se a FAMCRI pode ou não licenciar aquilo em Criciúma.Se for algo "gigante" (ex: uma usina hidrelétrica), o IBAMA assume seguindo as normas do CONAMA.Em Criciúma, 90% dos casos de impacto local morrem na FAMCRI, mas as regras que ela segue (como limites de poluição) vieram lá de cima, do CONAMA.

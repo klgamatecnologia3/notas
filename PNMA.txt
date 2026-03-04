@@ -1,0 +1,179 @@
+POLÍTICA NACIONAL DO MEIO AMBIENTE (PNMA)
+                                     │
+            _________________________┴_________________________
+           │                                                   │
+   ESTRUTURA DO SISNAMA                               INSTRUMENTOS E POLÍTICAS
+   (Órgãos e Entidades)                               (Leis e Planos Correlatos)
+           │                                                   │
+           │            ┌──────────┬──────────┬──────────┬─────┴────┬──────────┐
+           │          PNRS       SNUC       PNRH       PNMC       PNEA      Código
+           │        (Resíduos)  (UCs)      (Água)     (Clima)   (Educação) Florestal
+           │
+  ┌────────┴────────────────────────────────────────────────┐
+  │                                                         │
+  │  1. ÓRGÃO SUPERIOR: Conselho de Governo                 │
+  │     (Assessora o Presidente da República)               │
+  │                                                         │
+  │  2. ÓRGÃO CONSULTIVO E DELIBERATIVO: CONAMA             │
+  │     (Cria normas, resoluções e padrões)                 │
+  │                                                         │
+  │  3. ÓRGÃO CENTRAL: Ministério do Meio Ambiente (MMA)    │
+  │     (Planeja, coordena e supervisiona a PNMA)           │
+  │                                                         │
+  │  4. ÓRGÃOS EXECUTORES (Nível Federal):                  │
+  │     ├─ IBAMA (Policiamento, Licenciamento, Fiscalização)│
+  │     └─ ICMBio (Gestão das Unidades de Conservação)      │
+  │                                                         │
+  │  5. ÓRGÃOS SECCIONAIS (Nível Estadual/DF):              │
+  │     └─ Órgãos ou Entidades Estaduais (Ex: IMA-SC e Polícia Ambiental ...CETESB, INEA) │
+  │                                                         │
+  │  6. ÓRGÃOS LOCAIS (Nível Municipal):                    │
+  │     └─ Órgãos ou Entidades Municipais (Ex: FAMCRI)      │
+  └─────────────────────────────────────────────────────────┘
+
+  O que foi corrigido e completado:
+Inclusão do CONAMA: Ele é o coração normativo da política ambiental brasileira e estava ausente. É ele quem dita as regras que o IBAMA fiscaliza.
+
+Correção do Fluxo: O IBAMA e o ICMBio não mandam nos estados; eles atuam de forma suplementar. A hierarquia agora desce corretamente do Federal para o Local.
+
+Órgãos Seccionais e Locais: Clarifiquei que os "Seccionais" são os estados e os "Locais" são os municípios.
+
+Políticas Correlatas: Adicionei a PNEA (Educação Ambiental) e o Código Florestal, que são pilares que caminham junto com a PNRS e o SNUC.
+
+Papel da ANA: A Agência Nacional de Águas (ANA) tecnicamente está vinculada ao MMA, mas opera sob a Política Nacional de Recursos Hídricos (PNRH).
+
+Dica de estudo: Lembre-se que o Conselho de Governo é político/estratégico, enquanto o CONAMA é técnico/normativo.
+
+---------------------------------------------------------
+
+Em Santa Catarina, a estrutura segue o modelo do SISNAMA, mas com nomes e órgãos específicos que você precisa conhecer para atuar ou estudar no estado.
+
+Aqui estão os detalhes para o nível Estadual (SC) e Municipal (Criciúma):
+
+1. Órgão Seccional: Nível Estadual (Santa Catarina)
+
+    O estado de Santa Catarina possui dois pilares principais na execução da política ambiental:
+
+        IMA (Instituto do Meio Ambiente de Santa Catarina): É o principal órgão executor. Antigamente chamado de FATMA, o IMA é responsável pelo licenciamento ambiental, fiscalização, gestão de Unidades de Conservação estaduais e monitoramento (como o de balneabilidade das praias).
+
+            Nota: O IMA possui 16 gerências regionais, incluindo uma Coordenadoria Regional em Criciúma.
+
+        CPMA (Comando de Policiamento Militar Ambiental): É o braço da Polícia Militar especializado em crimes ambientais. Atua em conjunto com o IMA na fiscalização ostensiva (caça, pesca ilegal, desmatamento).
+
+        CONSEMA (Conselho Estadual do Meio Ambiente): É o órgão consultivo e deliberativo estadual (o "CONAMA de SC"). Ele define as normas estaduais e as atividades que podem ser licenciadas pelos municípios.
+
+2. Órgão Local: Nível Municipal (Criciúma)
+
+    Em Criciúma, a gestão é feita de forma direta pelo município, pois a cidade possui "capacidade técnica" reconhecida pelo estado para licenciar atividades de impacto local.
+
+        FAMCRI (Fundação Municipal do Meio Ambiente de Criciúma): É o órgão executor local. 
+            É para a FAMCRI que você deve recorrer para:
+
+                Autorização de corte de árvores isoladas.
+                Denúncias de poluição sonora ou descarte irregular de lixo na cidade.
+                Licenciamento de pequenas empresas e obras locais.
+
+        COMDEMA (Conselho Municipal de Defesa do Meio Ambiente): É o órgão deliberativo do município, onde a sociedade civil e o governo debatem as regras ambientais específicas de Criciúma.
+
+---
+
+Resumo da Hierarquia Aplicada
+Se você estiver em Criciúma, a "escada" de poder funciona assim:
+
+    Federal: IBAMA (Grandes impactos / BR-101).
+
+    Estadual: IMA (Impactos regionais / Indústrias maiores).
+
+    Local: FAMCRI (Impactos dentro da cidade / Loteamentos urbanos).
+
+Curiosidade: Em Criciúma, houve discussões recentes sobre transformar a FAMCRI em uma Secretaria Municipal de Meio Ambiente para reduzir custos, mas na prática, as funções de fiscalização e licenciamento continuam sendo a porta de entrada para o cidadão criciumense.
+
+    A "porta de entrada" refere-se ao início do processo administrativo.
+
+    Em Criciúma, você procura a FAMCRI para:
+
+        Licenciamento: Autorizar a abertura de empresas ou obras.
+        Fiscalização: Fazer denúncias de crimes ambientais (esgoto, fumaça, desmatamento).
+        Autorizações: Permissão para corte de árvores ou podas.
+        Educação: Projetos ambientais e adoção de espaços públicos.
+
+    Basicamente, é o primeiro balcão de atendimento para qualquer assunto ambiental dentro do limite do município.
+
+-------------------------------------------------------------------------------
+
+    Se for um problema no bairro (lixo, poda): Procura o Órgão Local (FAMCRI).
+
+    Se for uma grande indústria ou rodovia: Procura o Órgão Seccional (IMA) ou Executor (IBAMA).
+
+-------------------------------------------------------------------------------
+
+Se a atividade for POTENCIALMENTE POLUIDORA, a "porta de entrada" (quem vai te dar a licença) depende do tamanho do impacto:
+
+1. Impacto Local (FAMCRI)
+Se o impacto for restrito ao município de Criciúma.
+
+    Exemplos: Oficinas mecânicas, pequenos loteamentos, padarias industriais, lava-jatos.
+
+    Regra: Atividades listadas na Resolução do CONSEMA como de impacto local.
+
+2. Impacto Regional (IMA-SC)
+Se a atividade for maior ou ultrapassar os limites da cidade.
+
+    Exemplos: Grandes indústrias químicas, hospitais de grande porte, aterros sanitários, rodovias estaduais.
+
+    Regra: Se a FAMCRI não tiver convênio para aquele porte específico, o IMA assume.
+
+3. Impacto Nacional/Intermunicipal (IBAMA)
+Apenas para casos extremos.
+
+    Exemplos: Ferrovias, portos, energia nuclear ou atividades que afetem dois ou mais estados.
+
+--------------------------------------------------
+
+O Fluxo de Licenciamento (O "Caminho"):
+Para qualquer uma delas, você seguirá este diagrama de etapas:
+
+LAP (Licença Ambiental Prévia): Aprova a localização e a viabilidade (Diz: "Pode ser feito aqui").
+
+LAI (Licença Ambiental de Instalação): Autoriza a construção (Diz: "Pode construir").
+
+LAO (Licença Ambiental de Operação): Autoriza o funcionamento (Diz: "Pode abrir as portas").
+
+Resumindo: Se você quer abrir algo poluidor em Criciúma, primeiro consulta a FAMCRI. Se eles disserem que o porte é grande demais para eles, você vai à Gerência Regional do IMA (que fica ali no centro de Criciúma, na Rua Felipe Schmidt).
+
+---------------------------
+
+CONSEMA ou CONDEMA?
+
+1. CONSEMA (Estadual)
+Onde: Santa Catarina.
+
+    Papel: Define o que é "Impacto Local". 
+    
+    É ele quem diz: "Criciúma, você pode licenciar padarias e oficinas, mas grandes indústrias químicas ficam com o Estado (IMA)".
+
+    Quando usar: Se você quiser contestar uma norma que vale para o estado inteiro.
+
+2. COMDEMA (Municipal)
+Onde: Criciúma.
+
+    Papel: Delibera sobre questões dentro da cidade. Ele assessora a FAMCRI.
+
+    Quando usar: Se o seu projeto poluidor for de impacto local, as regras específicas de zoneamento e proteção municipal passam por ele.
+
+-----------------------
+
+Qual define o licenciamento?
+Para uma atividade Potencialmente Poluidora, o fluxo é:
+
+O CONSEMA (Estado) publica uma lista dizendo quais atividades são de "Impacto Local".
+
+Se a sua atividade estiver nessa lista, você resolve tudo na FAMCRI (sob as diretrizes do COMDEMA).
+
+Se a atividade for considerada de grande impacto, você ignora o município e vai direto para o IMA (sob as diretrizes do CONSEMA).
+
+Em resumo:
+
+Regra estadual / Grande poluidor = CONSEMA.
+
+Regra da cidade / Pequeno poluidor = COMDEMA.

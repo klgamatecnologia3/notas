@@ -1,0 +1,109 @@
+O SISNAMA (Sistema Nacional do Meio Ambiente)
+
+é a estrutura criada pela Lei nº 6.938/1981 que articula os órgãos federais, estaduais e municipais para gerir, proteger, preservar e recuperar a qualidade ambiental no Brasil.
+
+Ele organiza a política ambiental de forma descentralizada, garantindo que normas federais sejam aplicadas em nível local, com participação social. 
+
+O SISNAMA não é um único órgão.
+Ele é um sistema que reúne órgãos da União, Estados, Distrito Federal e Municípios que atuam na área ambiental. Ou seja, todos esses órgãos fazem parte do sistema.
+
+Estrutura do SISNAMA:
+
+    Órgão Superior: Conselho de Governo (assessorar o Presidente da República).
+
+    Órgão Consultivo e Deliberativo: CONAMA (Conselho Nacional do Meio Ambiente).
+
+    Órgão Central: MMA (Ministério do Meio Ambiente e Mudança do Clima).
+
+    Órgãos Executores: IBAMA e ICMBio.
+
+    Órgãos Seccionais: Órgãos estaduais (ex: secretarias estaduais de ambiente).
+    
+    Órgãos Locais: Órgãos municipais. 
+
+O sistema funciona de forma integrada para assegurar o desenvolvimento sócio-econômico com a proteção da qualidade de vida humana.
+
+-------------------------------------------------------------------------------------------------------------------
+
+                 SISTEMA NACIONAL DO MEIO AMBIENTE (SISNAMA)
+                                   │
+             ┌─────────────────────┴─────────────────────┐
+             │                                           │
+      ÓRGÃO SUPERIOR                              ÓRGÃO CONSULTIVO
+       Conselho de Governo                        e DELIBERATIVO
+   (assessora o Presidente da República)           CONAMA
+                                                 (normas e critérios)
+                                   │
+                                   │
+                             ÓRGÃO CENTRAL
+                                  MMA
+                     (coordena e supervisiona)
+                                   │
+             ┌─────────────────────┴─────────────────────┐
+             │                                           │
+      ÓRGÃOS EXECUTORES                             ÓRGÃOS SECCIONAIS
+         (Federais)                               (Estaduais e DF)
+         ┌──────────────┐                          Secretarias
+         │              │                          Estaduais
+       IBAMA           ICMBio                        de Meio Ambiente
+   (execução e      (gestão de UCs -                
+   fiscalização)  Unidades de Conservação)                                 
+                                   │
+                                   │
+                             ÓRGÃOS LOCAIS
+                             (Municipais)
+                      Secretarias Municipais
+                        de Meio Ambiente
+
+Pense no SISNAMA como uma pirâmide: do nível federal no topo até os municípios na base.
+
+Cada nível tem funções específicas, mas todos interconectados pelo sistema.
+
+
+------------------------------------------------------------------------------------------------
+
+POLÍTICA NACIONAL DO MEIO AMBIENTE (PNMA)
+                                     │
+            _________________________┴_________________________
+           │                                                   │
+   ESTRUTURA DO SISNAMA                               INSTRUMENTOS E POLÍTICAS
+   (Órgãos e Entidades)                               (Leis e Planos Correlatos)
+           │                                                   │
+           │            ┌──────────┬──────────┬──────────┬─────┴────┬──────────┐
+           │          PNRS       SNUC       PNRH       PNMC       PNEA      Código
+           │        (Resíduos)  (UCs)      (Água)     (Clima)   (Educação) Florestal
+           │
+  ┌────────┴────────────────────────────────────────────────┐
+  │                                                         │
+  │  1. ÓRGÃO SUPERIOR: Conselho de Governo                 │
+  │     (Assessora o Presidente da República)               │
+  │                                                         │
+  │  2. ÓRGÃO CONSULTIVO E DELIBERATIVO: CONAMA             │
+  │     (Cria normas, resoluções e padrões)                 │
+  │                                                         │
+  │  3. ÓRGÃO CENTRAL: Ministério do Meio Ambiente (MMA)    │
+  │     (Planeja, coordena e supervisiona a PNMA)           │
+  │                                                         │
+  │  4. ÓRGÃOS EXECUTORES (Nível Federal):                  │
+  │     ├─ IBAMA (Policiamento, Licenciamento, Fiscalização)│
+  │     └─ ICMBio (Gestão das Unidades de Conservação)      │
+  │                                                         │
+  │  5. ÓRGÃOS SECCIONAIS (Nível Estadual/DF):              │
+  │     └─ Órgãos ou Entidades Estaduais (Ex: CETESB, INEA) │
+  │                                                         │
+  │  6. ÓRGÃOS LOCAIS (Nível Municipal):                    │
+  │     └─ Órgãos ou Entidades Municipais                   │
+  └─────────────────────────────────────────────────────────┘
+
+  O que foi corrigido e completado:
+Inclusão do CONAMA: Ele é o coração normativo da política ambiental brasileira e estava ausente. É ele quem dita as regras que o IBAMA fiscaliza.
+
+Correção do Fluxo: O IBAMA e o ICMBio não mandam nos estados; eles atuam de forma suplementar. A hierarquia agora desce corretamente do Federal para o Local.
+
+Órgãos Seccionais e Locais: Clarifiquei que os "Seccionais" são os estados e os "Locais" são os municípios.
+
+Políticas Correlatas: Adicionei a PNEA (Educação Ambiental) e o Código Florestal, que são pilares que caminham junto com a PNRS e o SNUC.
+
+Papel da ANA: A Agência Nacional de Águas (ANA) tecnicamente está vinculada ao MMA, mas opera sob a Política Nacional de Recursos Hídricos (PNRH).
+
+Dica de estudo: Lembre-se que o Conselho de Governo é político/estratégico, enquanto o CONAMA é técnico/normativo.
