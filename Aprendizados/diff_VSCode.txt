@@ -1,0 +1,5 @@
+Comparar dois arquivos (diff no VS Code)
+
+    Clique direito no primeiro → Select for Compare
+
+    Clique direito no segundo → Compare with Selected
