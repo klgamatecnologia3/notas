@@ -1,0 +1,14 @@
+CLI (Command Line Interface) é linha de comando
+
+
+ e está em "oposição" a
+
+GUI (Graphical User Interface), que é interface gráfica com botões.
+
+------------------------------------------------------------------
+
+A contrabarra '\' se estiver no final da linha de comando e for teclado 'Enter', isso pula a linha para facilitar a visualização do comando/script. 
+
+Se a contrabarra não estiver no final (por exemplo, houver um espaço), não funcionará.
+
+------------------------------------------------------------------
