@@ -28,4 +28,49 @@ Regra da cidade / Pequeno poluidor = COMDEMA.
 
 No nível federal, o equivalente ao CONSEMA e ao COMDEMA é o CONAMA (Conselho Nacional do Meio Ambiente).
 
-Para atividades Potencialmente Poluidoras, a hierarquia dos conselhos funciona assim:1. CONAMA (Federal)Onde: Brasília (Ministério do Meio Ambiente).O que faz: Cria as Resoluções CONAMA (como a famosa 237/97). Elas valem para o Brasil inteiro.Papel: Define os padrões nacionais (ex: limites de emissão de fumaça, ruído, o que precisa de Estudo de Impacto Ambiental - EIA/RIMA).A Regra de Ouro (Quem decide quem licencia?)Para saber se você vai ao IBAMA (Federal), ao IMA (Estadual) ou à FAMCRI (Municipal), a regra federal é a Lei Complementar 140/2011:NívelConselho (Normativo)Órgão (Executor)Quando atua?FederalCONAMAIBAMAGrandes obras (Ferrovias, Portos, Energia Nuclear, Impacto em 2+ estados).EstadualCONSEMAIMA-SCAtividades de médio/grande porte ou que afetam mais de um município.LocalCOMDEMAFAMCRIAtividades de Impacto Local (conforme definido pelo CONSEMA).Resumindo:Se a sua atividade for potencialmente poluidora:O CONAMA dá a regra geral (Brasil).O CONSEMA diz se a FAMCRI pode ou não licenciar aquilo em Criciúma.Se for algo "gigante" (ex: uma usina hidrelétrica), o IBAMA assume seguindo as normas do CONAMA.Em Criciúma, 90% dos casos de impacto local morrem na FAMCRI, mas as regras que ela segue (como limites de poluição) vieram lá de cima, do CONAMA.
+Para atividades Potencialmente Poluidoras, a hierarquia dos conselhos funciona assim:
+
+1. CONAMA (Federal)
+
+    Onde: Brasília (Ministério do Meio Ambiente)
+
+    O que faz: Cria as Resoluções CONAMA (como a famosa 237/97)
+
+        Elas valem para o Brasil inteiro
+
+    Papel: Define os padrões nacionais (ex: limites de emissão de fumaça, ruído, o que precisa de Estudo de Impacto Ambiental - EIA/RIMA)
+
+A Regra de Ouro (Quem decide quem licencia?)
+    
+    Para saber se você vai ao IBAMA (Federal), ao IMA (Estadual) ou à FAMCRI (Municipal), a regra federal é a Lei Complementar 140/2011:
+    
+    NívelConselho (Normativo)
+    Órgão (Executor)
+    Quando atua?
+
+    Federal
+    CONAMA
+    IBAMA
+    Grandes obras (Ferrovias, Portos, Energia Nuclear, Impacto em 2+ estados)
+
+    Estadual
+    CONSEMA
+    IMA-SC
+    Atividades de médio/grande porte ou que afetam mais de um município
+
+    Local
+    COMDEMA
+    FAMCRI
+    Atividades de Impacto Local (conforme definido pelo CONSEMA)
+
+Resumindo: 
+
+Se a sua atividade for potencialmente poluidora: 
+
+    O CONAMA dá a regra geral (Brasil)
+
+    O CONSEMA diz se a FAMCRI pode ou não licenciar aquilo em Criciúma
+
+    Se for algo "gigante" (ex: uma usina hidrelétrica), o IBAMA assume seguindo as normas do CONAMA.
+
+    Em Criciúma, 90% dos casos de impacto local morrem na FAMCRI, mas as regras que ela segue (como limites de poluição) vieram lá de cima, do CONAMA.
