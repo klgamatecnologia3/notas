@@ -1,0 +1,17 @@
+O Certificado de Regularidade (CR) do CTF/AIDA é um documento emitido pelo Ibama
+que comprova que pessoas físicas ou jurídicas (consultores ambientais, fabricantes de equipamentos de controle, etc.)
+estão com seus dados e obrigações,
+como o relatório anual e taxas,
+em dia com o Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental (CTF/AIDA).
+
+Principais Detalhes:
+
+    Validade: O CR tem validade de 3 meses (90 dias) a partir da data de emissão.
+
+    Finalidade: É exigido em licitações públicas, financiamentos bancários e processos de licenciamento ambiental.
+
+    Emissão: Deve ser obtido no site do Ibama, após a verificação de que não há pendências (como falta de entrega do RAPP ou débitos).
+
+    Conformidade: A consulta pública pode indicar o CR como "cancelado" se surgir alguma pendência durante a vigência. 
+
+Ele atesta, portanto, que a ATIVIDADE DE DEFESA AMBIENTAL está em conformidade com as normas federais.
