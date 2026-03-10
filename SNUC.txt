@@ -1,0 +1,19 @@
+O SNUC (Sistema Nacional de Unidades de Conservação da Natureza)
+é o conjunto de normas e procedimentos, instituído pela Lei 9.985/2000,
+que regula a criação, gestão e monitoramento de ÁREAS PROTEGIDAS NO BRASIL, englobando unidades federais, estaduais, municipais e privadas. Seu objetivo é conservar a biodiversidade, recursos naturais e paisagens, dividindo as áreas em proteção integral e uso sustentável. 
+
+Principais Pontos do SNUC:
+    
+    Finalidade: Conservar a biodiversidade, espécies ameaçadas, ecossistemas e patrimônio cultural/natural.
+    
+    Grupos de Unidades de Conservação (UCs):
+        
+        Proteção Integral: Preservação estrita da natureza, permitindo apenas uso indireto (ex: Parque Nacional, Estação Ecológica).
+        
+        Uso Sustentável: Compatibiliza a conservação com o uso de recursos naturais (ex: Reserva Extrativista, APA).
+    
+    Gestão: Coordenado pelo Ministério do Meio Ambiente, envolvendo esferas federal, estadual e municipal.
+    
+    Compensação Ambiental: Empreendimentos de grande impacto devem apoiar a manutenção de UCs.
+    
+    Cadastro: O Cadastro Nacional de Unidades de Conservação (CNUC) (ou Senc) organiza e monitora os dados.
