@@ -1,0 +1,6 @@
+Socket é porta?
+Não.
+
+Porta → número que identifica um serviço (ex: 5432).
+
+Socket → combinação IP + porta + protocolo usada para comunicação.
