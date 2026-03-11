@@ -1,0 +1,22 @@
+where.exe — utilitário do Windows que localiza executáveis no PATH.
+
+Mostra todos os caminhos onde um comando existe no sistema.
+
+Exemplo:
+
+    where psql
+
+Lista todos os psql.exe encontrados nas pastas do PATH.
+Útil para identificar conflitos de versões ou verificar qual executável está sendo usado.
+
+------------
+
+Se usa where ou where.exe?
+
+Use where. where.exe é apenas o nome real do executável, mas o Windows já resolve isso automaticamente.
+
+    Exemplo comum:
+
+        where psql
+
+    O sistema executa internamente where.exe.
