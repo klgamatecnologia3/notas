@@ -1,0 +1,52 @@
+Óleo é um resíduo líquido, mas mesmo assim entra na Política Nacional de Resíduos Sólidos (PNRS).
+
+Isso acontece porque a Lei nº 12.305/2010 define resíduo sólido de forma ampla, incluindo também alguns resíduos líquidos e semissólidos quando:
+
+    não podem ser lançados diretamente em rede de esgoto ou corpos d’água;
+
+    exigem tratamento ou destinação específica.
+
+Por isso, óleos usados (ex.: óleo lubrificante, óleo de cozinha, óleo contaminado) são tratados dentro da gestão de resíduos.
+
+Exemplos
+
+    Óleo lubrificante usado (OLUC) → resíduo perigoso, com logística reversa obrigatória.
+
+    Óleo de cozinha usado → geralmente reciclado para biodiesel ou sabão.
+
+    Óleo contaminado de oficinas/concessionárias → precisa de coleta e destinação por empresa licenciada.
+
+Conclusão
+
+Mesmo sendo líquido, o óleo faz parte da gestão integrada de resíduos sólidos, porque a legislação considera resíduos que não podem ser descartados diretamente no ambiente.
+
+---------------------------------
+Como o óleo aparece na prática nos sistemas de gestão de resíduos:
+
+1. PGRS (Plano de Gerenciamento de Resíduos Sólidos)
+O óleo deve ser listado como resíduo perigoso ou resíduo contaminado, informando:
+
+    tipo de óleo (ex.: óleo lubrificante usado);
+
+    forma de armazenamento (bombonas, tanques);
+
+    empresa licenciada responsável pela coleta;
+
+    destinação final (ex.: rerrefino).
+
+2. MTR (Manifesto de Transporte de Resíduos)
+Quando o óleo é coletado:
+
+    é emitido MTR para transporte;
+
+    o gerador, transportador e destinador são registrados no sistema;
+
+    ao final é emitido o CDF (Certificado de Destinação Final).
+
+3. Classificação do resíduo
+Normalmente aparece como:
+
+    Resíduo perigoso – Classe I (ex.: óleo lubrificante usado ou contaminado).
+
+Resumo:
+Mesmo sendo líquido, o óleo entra no controle de resíduos porque precisa de armazenamento, transporte e destinação ambientalmente adequada, seguindo a Lei nº 12.305/2010.
