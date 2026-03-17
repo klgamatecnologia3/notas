@@ -1,0 +1,46 @@
+Um "dockerfile" é um arquivo de texto/código que define os passos para construir uma "imagem". E a "imagem" serve para criar o "container".
+
+Para os seus projetos, você precisa criar um dockerfile.
+
+---
+
+'docker run' cria e já inicia um container a partir de uma imagem.
+
+---
+
+o build cria a imagem; o run/compose usa essa imagem.
+
+---
+
+Você define nome (meu-backend) e tag (v1) no docker build -t, então você controla versionamento.
+
+    docker build -t meu-frontend:v1 -f frontend/Dockerfile ./frontend
+    # este comando cria a imagem "meu-frontend:v1"
+    # ela será usada depois por docker run ou docker compose
+
+---
+
+Como o 'docker run' cria um container e já o inicia, o CMD definido no dockerfile (o docker build incorpora isso na imagem) é o comando que fará rodar o container, ou seja, iniciar ele.
+
+---
+
+container_name do docker-compose não aceita : (dois pontos) e não cria tag; tag é só para imagem (image: nome:v2).
+
+---
+
+Você pode usar um único comando para subir e rebuildar múltiplos serviços.
+
+```bash
+docker compose up -d --build frontend backend
+```
+
+Esse comando reconstrói e recria ambos os containers ao mesmo tempo.
+
+---
+
+No docker-compose, ou você "builda" ou usa uma imagem pronta.
+
+    build: = Compose constrói a imagem para você
+    image: = Compose só usa uma imagem já pronta
+
+---

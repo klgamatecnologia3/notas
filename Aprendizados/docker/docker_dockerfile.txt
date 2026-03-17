@@ -1,0 +1,108 @@
+O Dockerfile serve exclusivamente para definir como construir uma imagem.
+
+Ele não executa containers; só descreve o processo de build.
+
+Não tem extensão.
+O nome padrão é simplesmente Dockerfile (sem .txt, .dockerfile, etc.).
+
+Então:
+
+    Dockerfile -> Criar Imagem
+
+--------------------------
+
+Sim — segue com comentários lado a lado 👇
+
+---
+
+## 🧠 **Backend (Node.js) comentado**
+
+```dockerfile id="6qux4h"
+FROM node:20-alpine          # imagem base (Node leve)
+
+WORKDIR /app                # define diretório de trabalho dentro do container
+
+ARG NODE_ENV=production     # variável disponível só no build
+
+ENV NODE_ENV=$NODE_ENV      # variável disponível em runtime (container rodando)
+
+COPY package*.json ./       # copia arquivos de dependência primeiro (cache)
+
+RUN npm install             # instala dependências
+
+COPY . .                    # copia todo o restante do código
+
+EXPOSE 3000                # documenta a porta usada pela aplicação
+
+CMD ["npm", "start"]       # comando executado ao iniciar o container
+```
+
+---
+
+## 🌐 **Frontend (React + Nginx) comentado**
+
+```dockerfile id="uf0v2l"
+# Etapa 1: build do front
+FROM node:20-alpine AS build   # primeira etapa chamada "build"
+
+WORKDIR /app                  # diretório de trabalho
+
+COPY package*.json ./         # copia dependências
+RUN npm install               # instala dependências
+
+COPY . .                      # copia código do front
+
+RUN npm run build             # gera arquivos estáticos (dist)
+
+# Etapa 2: servidor web
+FROM nginx:alpine             # imagem leve para servir arquivos
+
+COPY --from=build /app/dist /usr/share/nginx/html  
+# copia resultado da etapa anterior para o nginx
+
+EXPOSE 80                     # porta padrão HTTP
+
+CMD ["nginx", "-g", "daemon off;"]  
+# inicia o nginx em primeiro plano (necessário no Docker)
+```
+
+---
+
+Se quiser, posso te dizer **qual linha é essencial vs opcional** (isso acelera MUITO o entendimento).
+
+
+---------------------
+
+### 🧠 **Essencial (mínimo pra funcionar)**
+
+* `FROM` → obrigatório (sempre precisa)
+* `CMD` ou `ENTRYPOINT` → define o que roda
+* `COPY` (ou `ADD`) → se precisa levar código
+* `WORKDIR` → não obrigatório, mas praticamente sempre usado
+
+---
+
+### ⚙️ **Quase sempre usado (boas práticas)**
+
+* `RUN` → instalar dependências
+* `EXPOSE` → documentação da porta
+* `ENV` → config da aplicação
+
+---
+
+### 🧩 **Opcional / avançado**
+
+* `ARG` → só build
+* `LABEL` → metadados
+* `VOLUME` → persistência (raramente no Dockerfile hoje)
+* `USER` → segurança
+* multi-stage (`AS build`) → otimização
+
+---
+
+### 🎯 Resumo
+
+* **mínimo real:** `FROM + CMD`
+* **mínimo útil:** `FROM + WORKDIR + COPY + RUN + CMD`
+
+

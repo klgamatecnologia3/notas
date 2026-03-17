@@ -1,0 +1,5 @@
+Continuar vendo as siglas de ABNT_NBR_10004.md
+
+---------------------
+
+Aprender sobre dockerfile e dockercompose ver User/Dev2/docker_teste/welcome-to-docker
