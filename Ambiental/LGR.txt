@@ -1,0 +1,20 @@
+A Lista Geral de Resíduos (LGR)
+
+é um instrumento técnico, integrante da norma ABNT NBR 10004 (especialmente na sua atualização de 2024),
+
+utilizado para INDENTIFICAR e CLASSIFICAR RESÍDUOS SÓLIDOS quanto ao seu POTENCIAL DE PERICULOSIDADE.
+
+Ela funciona como um catálogo codificado que facilita o enquadramento do resíduo com base na sua origem, processo gerador ou componentes. 
+
+Aqui estão os pontos chave sobre a LGR relacionada à NBR 10004:
+
+    Finalidade: A LGR serve como o primeiro passo na classificação de resíduos, permitindo determinar se o resíduo é potencialmente perigoso (Classe I) ou não perigoso (Classe II) com base na lista, antes de realizar análises laboratoriais.
+    
+    Vínculo com o IBAMA: A atualização da norma NBR 10004:2024 alinhou a LGR à Lista Brasileira de Resíduos Sólidos do IBAMA, fornecendo ferramentas padronizadas para o mapeamento do resíduo.
+    
+    Estrutura: A lista é dividida em capítulos, geralmente organizados por atividade industrial ou setor gerador (ex: resíduos de processos térmicos, embalagens, construção e demolição, serviços de saúde).
+    
+    Códigos de Periculosidade: Na LGR, resíduos com um asterisco (*) ao lado do código são considerados perigosos por definição, necessitando de controle rigoroso.
+    
+    Processo de Classificação (NBR 10004:2024): A nova versão estabelece quatro etapas, sendo a primeira a LGR. Mesmo que um resíduo não esteja expressamente na lista como perigoso, ele deve passar pelas etapas seguintes (avaliação de Poluentes Orgânicos Persistentes - POPs, características físico-químicas e toxicidade) para confirmar sua classificação final.
+A correta identificação na LGR é crucial para o Laudo de Classificação de Resíduos (LCR), sendo o gerador responsável técnico pela correta classificação.
