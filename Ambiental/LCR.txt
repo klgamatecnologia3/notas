@@ -1,0 +1,123 @@
+O Laudo de Classificação de Resíduos (LCR)
+
+é um documento técnico-científico que classifica resíduos sólidos de acordo com a norma ABNT NBR 10004:2004.
+
+Ele identifica se o resíduo é
+
+    Classe I (Perigoso) ou 
+    Classe II (Não Perigoso – A ou B),
+
+definindo o transporte, tratamento e destinação final adequados, prevenindo passivos ambientais e multas. 
+
+Principais características e funções:
+
+    Fundamentação Legal: Baseia-se na caracterização física, química e biológica para conformidade com órgãos ambientais (NBR 10004).
+    
+    Identificação de Periculosidade: Analisa características como inflamabilidade, corrosividade, reatividade, toxicidade e patogenicidade.
+    
+    Componentes do Laudo: Inclui descrição da origem do resíduo, processo de segregação, análises laboratoriais e definição da destinação final.
+    
+    Responsabilidade: Deve ser elaborado por profissionais técnicos habilitados, garantindo a gestão adequada do resíduo. 
+
+O LCR é, portanto, um instrumento crucial de segurança operacional que garante que o manejo do resíduo esteja em total conformidade com a legislação ambiental, evitando riscos ao meio ambiente e à saúde pública.
+
+-----
+
+O **Laudo de Classificação de Resíduos (LCR)** deve ser elaborado por um **profissional legalmente habilitado**, com formação técnica compatível e responsabilidade técnica formalizada.
+
+### ✔️ Em termos práticos:
+
+* **Responsável técnico:**
+  Engenheiro(a) ambiental, químico(a), sanitarista ou outro profissional com competência na área de resíduos.
+
+* **Registro profissional:**
+  Deve possuir registro ativo no conselho de classe (como CREA ou CRQ, dependendo do caso).
+
+* **Responsabilidade técnica:**
+  O laudo deve ser acompanhado de **ART (Anotação de Responsabilidade Técnica)** ou documento equivalente.
+
+---
+
+### ✔️ Importante:
+
+* O LCR normalmente segue critérios da **ABNT NBR 10004**, que define se o resíduo é:
+
+  * Classe I (perigoso)
+  * Classe II A (não inerte)
+  * Classe II B (inerte)
+
+* Em muitos casos, o laudo é feito com base em:
+
+  * Análises laboratoriais (químicas/físicas)
+  * Caracterização do processo gerador
+
+---
+
+### ✔️ Quem pode emitir na prática?
+
+* Consultorias ambientais (como a KL GAMA 😉)
+* Laboratórios ambientais com responsável técnico
+* Profissionais autônomos habilitados
+
+---
+
+Se quiser, posso te montar um **modelo padrão de LCR** já com estrutura pronta (bem no padrão que vocês usam em cliente), incluindo itens exigidos por órgão ambiental.
+
+-----------
+
+Não existe um “rol fechado e único” em lei federal — o critério é **competência técnica + atribuição profissional reconhecida pelo conselho de classe**.
+Mas, na prática (e aceitação por órgãos ambientais), os **profissionais habilitados** para emissão de LCR são:
+
+### Profissionais mais aceitos (regra geral)
+
+* Engenheiro Ambiental
+* Engenheiro Sanitarista
+* Engenheiro Sanitarista e Ambiental
+* Engenheiro Químico
+* Químico (nível superior)
+* Tecnólogo em Gestão Ambiental
+* Tecnólogo em Saneamento Ambiental
+
+### Profissionais aceitos conforme atribuição (caso a caso)
+
+* Engenheiro Civil (com atribuição em saneamento/resíduos)
+* Engenheiro de Produção (com ênfase ambiental)
+* Engenheiro Florestal (quando relacionado ao tipo de resíduo)
+* Biólogo (quando houver interface técnica e atribuição reconhecida)
+* Geólogo ou Engenheiro Geólogo (em casos específicos de caracterização)
+
+---
+
+### Condições obrigatórias (para todos)
+
+* Registro ativo no conselho (CREA, CRQ, CRBio, etc.)
+* Atribuição compatível com a atividade
+* Emissão de ART (ou equivalente)
+
+---
+
+Se quiser, posso te dizer **quem o IMA/SC costuma aceitar sem questionar** (na prática de licenciamento).
+
+----
+
+O que define não é o curso sozinho, e sim a **atribuição técnica formal**.
+
+### O que habilita:
+
+* **Atribuições no conselho** (ex.: CREA/CRBio/CRQ)
+* Definidas por:
+
+  * Grade curricular (disciplinas cursadas)
+  * Diretrizes do conselho (resoluções, ex.: CONFEA)
+* **Registro com essas atribuições ativas**
+* Possibilidade de emitir **ART** para essa atividade
+
+### Por que alguns podem e outros não:
+
+Dois profissionais da mesma área podem ter **atribuições diferentes** porque:
+
+* Fizeram **ênfases diferentes na graduação**
+* Têm **complementação (pós/disciplinas)** reconhecida pelo conselho
+* Solicitaram (ou não) **ampliação de atribuições**
+
+👉 Resumo: quem pode assinar LCR é quem tem, no conselho, **atribuição explícita ligada a resíduos/controle ambiental** — não apenas o título do diploma.
