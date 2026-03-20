@@ -29,5 +29,3 @@ O trecho de código:
     -v postgres_data:/var/lib/postgresql/data
 
 criará o volume nomeando-o como postgres_data.
-
-

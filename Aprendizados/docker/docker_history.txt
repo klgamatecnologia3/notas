@@ -1,0 +1,9 @@
+Rode:
+
+docker history <nome_imagem> 
+
+para ver o tamanho dos arquivos da imagem, para ver o que mais consome espaço.
+
+Exemplo:
+
+    docker history welcome-to-docker:v5

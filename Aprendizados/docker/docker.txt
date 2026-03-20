@@ -44,3 +44,63 @@ No docker-compose, ou você "builda" ou usa uma imagem pronta.
     image: = Compose só usa uma imagem já pronta
 
 ---
+
+Ideia-chave: em Docker você normalmente não edita o container; você edita o código, rebuilda a imagem e recria o container.
+
+---
+
+Como pensar esse processo:
+
+    Front e back
+
+        você escreve/edita código local
+        faz docker build
+        sobe com docker run
+
+    Banco
+
+        geralmente usa imagem pronta
+        configura com -e
+        persiste com -v
+
+    Volume
+
+        guarda os dados fora do container
+
+    Rede
+
+        faz os containers se enxergarem por nome
+
+---
+
+Sem Compose, suba nessa ordem:
+
+    volume
+    rede
+    banco
+    backend
+    frontend
+
+---
+
+Em Docker, o fluxo certo quase sempre é:
+
+    editar fonte/config
+    rebuildar
+    recriar container
+
+Não é “entrar no container e mexer”, porque isso vira mudança descartável.
+
+---
+
+Para rodar o docker, build, run, etc... preciso estar na pasta do projeto?
+
+    docker build → sim, precisa estar na pasta (ou passar o caminho do contexto)
+    docker run → não, pode rodar de qualquer lugar (usa imagem já criada)
+
+---
+
+Importante:
+
+    A porta interna (3000) precisa já existir no app
+    O Docker Desktop não cria a porta interna, só conecta
