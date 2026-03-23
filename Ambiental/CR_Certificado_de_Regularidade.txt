@@ -14,3 +14,14 @@ Principais Detalhes:
     Conformidade: A consulta pública pode indicar o CR como "cancelado" se surgir alguma pendência durante a vigência. 
 
 Ele atesta, portanto, que a ATIVIDADE DE DEFESA AMBIENTAL está em conformidade com as normas federais.
+
+------
+
+o CTF-APP (Atividades Potencialmente Poluidoras) também possui Certificado de Regularidade (CR).
+
+Ambos os cadastros (CTF/AIDA e CTF/APP) funcionam sob o mesmo sistema de regularidade do Ibama - Instituto Brasileiro do Meio Ambiente, atestando conformidade com as obrigações ambientais e validade de 3 meses. 
+
+CTF/APP (Atividades Potencialmente Poluidoras): Necessário para empresas que exercem atividades poluentes ou utilizam recursos ambientais.
+CTF/AIDA (Atividades de Defesa Ambiental): Necessário para consultorias técnicas e monitoramento ambiental. 
+
+A emissão do CR é unificada no portal de serviços do www.gov.br para os dois tipos de cadastro.

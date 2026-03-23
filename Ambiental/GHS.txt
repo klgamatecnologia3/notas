@@ -1,0 +1,22 @@
+O GHS (Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos Químicos)
+
+é uma abordagem internacional padronizada pela ONU para
+classificar perigos,
+rotular produtos químicos e
+criar fichas de segurança (FDS/FISPQ) padronizadas.
+
+Ele busca garantir a segurança no uso, transporte e manuseio de químicos em todo o mundo, facilitando o comércio internacional. 
+
+Principais aspectos do GHS:
+
+    Comunicação de Perigo: Substitui sistemas diversos por uma linguagem comum, focando no "direito de compreender" os riscos.
+    
+    Rotulagem Padronizada: Os rótulos devem conter pictogramas de perigo (símbolos gráficos), palavras de advertência (ex: "Perigo" ou "Atenção"), frases de perigo e precaução.
+    
+    Fichas de Dados de Segurança (FDS/FISPQ): Documentos com 16 seções padronizadas que detalham as informações de segurança do produto químico.
+    
+    Classificação de Perigos: Divide os riscos em físicos (ex: inflamáveis, explosivos), à saúde (ex: tóxicos, irritantes) e ao meio ambiente (ex: tóxico aquático).
+    
+    Abrangência: Embora seja uma recomendação da ONU, países como o Brasil adotam o GHS através de normas da ABNT e legislação trabalhista. 
+
+O objetivo do GHS é proteger a saúde humana e o meio ambiente, reduzindo a necessidade de testes em animais e facilitando a identificação rápida de perigos. 
