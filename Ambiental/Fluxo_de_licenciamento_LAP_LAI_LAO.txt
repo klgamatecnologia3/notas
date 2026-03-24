@@ -44,24 +44,24 @@ A Regra de Ouro (Quem decide quem licencia?)
     
     Para saber se você vai ao IBAMA (Federal), ao IMA (Estadual) ou à FAMCRI (Municipal), a regra federal é a Lei Complementar 140/2011:
     
-    NívelConselho (Normativo)
+    Nível Conselho (Normativo)
     Órgão (Executor)
     Quando atua?
 
-    Federal
-    CONAMA
-    IBAMA
-    Grandes obras (Ferrovias, Portos, Energia Nuclear, Impacto em 2+ estados)
+        Federal
+            CONAMA
+            IBAMA
+            Grandes obras (Ferrovias, Portos, Energia Nuclear, Impacto em 2+ estados)
 
-    Estadual
-    CONSEMA
-    IMA-SC
-    Atividades de médio/grande porte ou que afetam mais de um município
+        Estadual
+            CONSEMA
+            IMA-SC
+            Atividades de médio/grande porte ou que afetam mais de um município
 
-    Local
-    COMDEMA
-    FAMCRI
-    Atividades de Impacto Local (conforme definido pelo CONSEMA)
+        Local
+            COMDEMA
+            FAMCRI
+            Atividades de Impacto Local (conforme definido pelo CONSEMA)
 
 Resumindo: 
 
