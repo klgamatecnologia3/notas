@@ -1,0 +1,32 @@
+O Cadastro Ambiental Rural (CAR)
+
+é um registro público eletrônico, de caráter obrigatório, para todas as propriedades e posses rurais no Brasil.
+
+Criado pelo Novo Código Florestal (Lei nº 12.651/2012), 
+
+ele integra informações ambientais sobre áreas de preservação permanente (APPs), reserva legal (RL) e uso consolidado, visando o controle, monitoramento e combate ao desmatamento. 
+
+Principais Características e Usos do CAR:
+
+    Finalidade: Base de dados estratégica para regularização ambiental, planejamento econômico e conservação ambiental.
+    
+    Obrigatoriedade: Necessário para todos os imóveis rurais (pequenos, médios ou grandes).
+    
+    Benefícios: Essencial para obter licenças ambientais, crédito rural em bancos e regularização fundiária.
+    
+    Como é feito: Realizado via internet, por meio do sistema SICAR - Sistema Nacional de Cadastro Ambiental Rural. 
+
+Sinônimos e termos relacionados:
+
+    Registro Rural
+    Cadastro Ambiental de Imóveis Rurais
+    SICAR (Sistema Nacional de Cadastro Ambiental Rural)
+    Regularização Ambiental Rural 
+
+Exemplos de uso:
+
+    Um produtor rural precisa do número do CAR para solicitar um financiamento bancário para compra de gado.
+
+    A Secretaria de Meio Ambiente utiliza o CAR para monitorar o desmatamento ilegal em tempo real.
+    
+    O proprietário usa o CAR para delimitar a Área de Preservação Permanente (APP) e a Reserva Legal (RL) de sua fazenda.
