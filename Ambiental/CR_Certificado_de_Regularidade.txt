@@ -1,4 +1,7 @@
-O Certificado de Regularidade (CR) do CTF/AIDA é um documento emitido pelo Ibama
+O Certificado de Regularidade (CR) do CTF/AIDA
+
+é um documento emitido pelo Ibama
+
 que comprova que pessoas físicas ou jurídicas (consultores ambientais, fabricantes de equipamentos de controle, etc.)
 estão com seus dados e obrigações (como o relatório anual e taxas),
 em dia com o Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental (CTF/AIDA).
