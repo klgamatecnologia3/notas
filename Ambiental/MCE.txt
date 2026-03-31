@@ -1,0 +1,20 @@
+O MCE (Memorial de Caracterização do Empreendimento)
+
+no contexto ambiental é um documento técnico fundamental, muitas vezes obrigatório no processo de licenciamento ambiental.
+
+Ele atua como um formulário detalhado onde o solicitante da licença descreve minuciosamente as
+matérias-primas, produtos, máquinas, equipamentos, resíduos e outras características que definem a atividade produtiva de uma empresa. 
+
+Aqui estão os pontos principais sobre o MCE:
+
+    Finalidade: O principal objetivo do MCE é permitir que o órgão ambiental (como a CETESB em SP) conheça profundamente a empresa e seus processos operacionais, possibilitando o dimensionamento dos potenciais impactos ambientais.
+    
+    Conteúdo do MCE: Geralmente inclui dados administrativos (razão social, CNPJ), localização, áreas, descrição das atividades, quadro de funcionários, horário de funcionamento, matérias-primas utilizadas, produtos finais, resíduos gerados, balanço hídrico e métodos de controle de poluição.
+    
+    Licenciamento Ambiental: O MCE é comumente solicitado nas etapas de Licença Prévia (LP), Instalação (LI) ou Operação (LO), servindo como base para a avaliação de viabilidade ambiental.
+    
+    Tipos de MCE: Existem diferentes tipos de formulários, como o MCE simplificado, geral ou para postos de combustíveis, variando conforme a complexidade e o setor do empreendimento.
+    
+    Modernização: Muitos órgãos, como a CETESB, utilizam plataformas online (e-CETESB) para o preenchimento e upload do MCE, facilitando o processo. 
+
+Em resumo, o MCE é a "ficha de identidade" técnica da empresa para fins ambientais, essencial para que o órgão licenciador entenda o que a empresa faz, como faz e quais impactos ela pode causar.

@@ -2,6 +2,8 @@ O Laudo de Classificação de Resíduos (LCR)
 
 é um documento técnico-científico que classifica resíduos sólidos de acordo com a norma ABNT NBR 10004:2004.
 
+O **Laudo de Classificação de Resíduos (LCR)** deve ser elaborado por um **profissional legalmente habilitado**, com formação técnica compatível e responsabilidade técnica formalizada.
+
 Ele identifica se o resíduo é
 
     Classe I (Perigoso) ou 

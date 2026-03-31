@@ -1,0 +1,42 @@
+O CDF (Certificado de Destinação Final)
+
+do MTR é o documento emitido pelo destinador (receptor final) que comprova a destinação ambientalmente adequada de resíduos sólidos. Ele confirma que o tratamento ou disposição final ocorreu conforme as normas, após o recebimento do MTR (Manifesto de Transporte de Resíduos) no sistema SINIR/plataforma MTR. 
+
+Principais aspectos do CDF:
+    Finalidade: Comprova para órgãos ambientais e clientes que o resíduo teve fim legal e correto.
+    
+    Emissor: É responsabilidade do destinador final, não do gerador.
+    
+    Vinculação: O CDF só é gerado após a aceitação do MTR pelo receptor na plataforma MTR online/SINIR.
+    
+    Prazo: Geralmente, deve ser emitido em até 60 dias após o recebimento do resíduo. 
+
+Este documento é crucial para rastreabilidade, cumprimento da PNRS (Política Nacional de Resíduos Sólidos) e para a gestão de passivos ambientais da empresa geradora. 
+
+-----------------------------
+RESPONSABILIDADE envolvida com o CDF
+
+Se o destinador não emitir o **CDF dentro do prazo (geralmente 60 dias)**:
+
+* **Destinador:** fica **irregular** → pode sofrer **autuação/multa** por não dar baixa no MTR.
+* **Gerador:** **não é o responsável direto pelo CDF**, mas fica **exposto** → o resíduo permanece “em aberto” no sistema (MTR sem baixa), podendo gerar **inconsistência no RAPP/SINIR** e cair em fiscalização.
+
+👉 Na prática:
+o gerador precisa **cobrar e registrar essa cobrança** (prova), porque o órgão pode entender que há **falha no controle da destinação** se ficar pendente por muito tempo.
+
+----
+
+O gerador só vai ser responsabilizado se comprovada culpa dele na não emissão do CDF?
+
+Exatamente — **em regra, sim**.
+
+O **gerador só tende a ser responsabilizado** se ficar demonstrado que houve **culpa ou falha dele**, por exemplo:
+
+* não contratou destinador licenciado
+* não acompanhou/monitorou a destinação
+* não cobrou a emissão do CDF
+* há indícios de destinação irregular
+
+👉 Caso contrário (destinador regular + MTR emitido + cobrança registrada), a responsabilidade pela não emissão do CDF é **do destinador**.
+
+**Mas atenção:** na prática ambiental aplica-se o princípio da **responsabilidade compartilhada** — então o gerador precisa **comprovar que fez a parte dele**.
