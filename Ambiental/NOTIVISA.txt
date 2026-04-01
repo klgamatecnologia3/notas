@@ -1,0 +1,29 @@
+O NOTIVISA (Sistema Nacional de Notificações para a Vigilância Sanitária)
+
+é uma plataforma online da Anvisa
+
+utilizada para registrar problemas com produtos e serviços de saúde.
+
+Ele permite que cidadãos e profissionais notifiquem eventos adversos, queixas técnicas e incidentes, ajudando a monitorar e garantir a segurança sanitária nacional. 
+
+O que pode ser notificado (Uso e Exemplos):
+
+    Medicamentos: Suspeita de inefetividade, reações alérgicas graves ou desvio de qualidade (ex: comprimido esfarelando).
+    
+    Produtos para Saúde: Mau funcionamento de equipamentos médicos, seringas com defeito, defeitos em kits de autoteste.
+    
+    Cosméticos/Saneantes: Reações a cremes, presença de insetos em sabão, perfumes com odor estranho.
+    
+    Serviços de Saúde: Infecções ou erros em hospitais e laboratórios. 
+
+Sinônimos e Formas de Acesso:
+
+    E-Notivisa: Módulo específico para o cidadão relatar problemas diretamente.
+    
+    Notificação Anvisa: É o nome técnico do ato de relatar via sistema.
+    
+    e-Notivisa https://enotivisa.anvisa.gov.br/login-empresa
+
+    Notivisa Cidadão https://www16.anvisa.gov.br/notivisaServicos/cidadao/notificacao/evento-adverso
+
+O sistema é focado na melhoria da segurança do paciente e não visa punição individual. 
