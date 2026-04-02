@@ -1,0 +1,17 @@
+O SUASA (Sistema Unificado de Atenção à Sanidade Agropecuária)
+
+é um sistema brasileiro que integra União, estados e municípios para organizar a defesa agropecuária, fiscalizar insumos e inspecionar produtos de origem animal e vegetal. 
+
+Ele garante a qualidade e segurança sanitária dos produtos, coordenando ações de vigilância sanitária em todo o território nacional. 
+
+Principais aspectos do SUASA:
+
+    Objetivo: Proteger a saúde animal, vegetal e a saúde pública, garantindo a idoneidade de insumos (como vacinas e rações) e a qualidade dos alimentos consumidos.
+    
+    Funcionamento (SISBI): Utiliza o Sistema Brasileiro de Inspeção (SISBI-POA e SISBI-POV) para descentralizar a fiscalização, permitindo que estados e municípios com equivalência de serviços fiscalizem produtos que podem ser vendidos em todo o país.
+    
+    Estrutura: Coordenado pelo Ministério da Agricultura e Pecuária (MAPA) como instância central, enquanto estados e municípios agem como instâncias intermediárias e locais.
+    
+    Adesão: A participação de estados e municípios é voluntária, baseada na comprovação de capacidade técnica para realizar a inspeção. 
+
+O SUASA foi criado para unificar regras e procedimentos, reduzindo riscos sanitários e aumentando a eficiência da defesa agropecuária brasileira.

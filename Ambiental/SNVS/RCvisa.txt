@@ -1,0 +1,18 @@
+A Rede de Comunicação em Visa (RCvisa)
+
+no contexto de surtos, refere-se à estrutura de notificação, monitoramento e comunicação entre serviços de saúde, vigilâncias locais, estaduais e a Agência Nacional de Vigilância Sanitária (Anvisa) para lidar com surtos infecciosos.
+
+Ela faz parte do Sistema Nacional de Vigilância e Monitoramento de Surtos Infecciosos, que visa aumentar a capacidade de detecção precoce de casos e agilizar a resposta a infecções relacionadas à assistência à saúde (IRAS). 
+
+Aqui estão os pontos-chave sobre a RCvisa para surtos:
+
+    Objetivo: Estabelecer diretrizes, procedimentos e fluxos integrados de trabalho para investigação, controle e notificação de surtos infecciosos em serviços de saúde.
+    
+    Funcionamento: A notificação de surtos é obrigatória, geralmente em até 72 horas após a identificação. O processo envolve o monitoramento e a notificação de eventos (como resistência antimicrobiana) e o relato à vigilância sanitária local, que pode repassar à esfera estadual e nacional (Anvisa).
+    
+    Ações na Investigação: A RCvisa facilita a troca de informações para descobrir a fonte e o mecanismo de transmissão do surto, permitindo o isolamento de pacientes e a adoção de medidas preventivas.
+    
+    Monitoramento de Surtos: A Anvisa, através da Gerência de Vigilância e Monitoramento em Serviços de Saúde (GVIMS), realiza a triagem e avaliação de risco das notificações 
+    recebidas para definir a necessidade de intervenção. 
+
+Onde notificar:  A notificação de surtos em serviços de saúde é feita via formulário específico de notificação de eventos adversos (Notivisa/RCvisa).
