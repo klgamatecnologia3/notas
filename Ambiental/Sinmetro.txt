@@ -1,0 +1,21 @@
+O Sinmetro (Sistema Nacional de Metrologia, Normalização e Qualidade Industrial)
+
+é um sistema brasileiro que reúne entidades públicas e privadas para formular e executar a política nacional de metrologia, normalização e avaliação da conformidade. 
+
+Instituído pela Lei 5.966/1973, seu principal objetivo é aumentar a produtividade e a qualidade de produtos e serviços, protegendo o consumidor. 
+
+Principais Aspectos do Sinmetro:
+
+        Composição: O sistema é estruturado pelo Conmetro (Conselho Nacional de Metrologia, Normalização e Qualidade Industrial), que é o órgão normativo, e pelo Inmetro (Instituto Nacional de Metrologia, Qualidade e Tecnologia), que atua como secretaria executiva e órgão executor.
+        
+        Funções Básicas (Tecnologia Industrial Básica - TIB):
+            
+            Metrologia: Garantir a precisão nas medições (científica, industrial e legal).
+            
+            Normalização: Estabelecer normas técnicas para produtos e serviços.
+            
+            Avaliação da Conformidade: Certificar que produtos e serviços atendem aos requisitos de segurança e qualidade estabelecidos.
+    
+    Objetivos: Fortalecer a competitividade da indústria nacional, garantir a segurança do consumidor e facilitar o comércio internacional através da rastreabilidade e padronização. 
+
+O Inmetro atua como o principal braço executivo do sistema, verificando a observância de normas técnicas e legais no Brasil.
