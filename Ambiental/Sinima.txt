@@ -1,0 +1,44 @@
+O Sistema Nacional de Informação sobre Meio Ambiente (Sinima)
+
+é a base de dados oficial do Brasil que reúne, organiza e compartilha informações ambientais.
+
+ENQUANTO O SISNAMA É A ESTRUTURA INSTITUCIONAL (OS ÓRGÃOS), O SINIMA É A PLATAFORMA.
+
+Previsto na Política Nacional do Meio Ambiente (Lei 6.938/81),
+
+ele integra dados de órgãos federais, estaduais e municipais (Sisnama), sendo crucial para o licenciamento ambiental e a transparência pública sobre recursos naturais. 
+
+Principais Características e Funções:
+
+    Integração de Dados: Conecta diferentes sistemas de informação ambiental, facilitando o acesso a dados sobre biodiversidade, poluição e recursos hídricos.
+
+    Gestão de Licenciamento: Tornou-se essencial após nova legislação, sendo utilizado por órgãos licenciadores para gerir informações de atividades poluidoras.
+
+    Acesso ao Público: Permite que empresas, pesquisadores e cidadãos consultem informações ambientais consolidadas do país.
+
+    Base Legal: Funciona como um instrumento de apoio à gestão compartilhada do meio ambiente. 
+
+Com a modernização, o Sinima busca unificar dados para melhorar a tomada de decisão ambiental no país. 
+
+Gostaria de saber mais sobre:
+
+    A relação do Sinima com o licenciamento ambiental?
+    Como ele se integra ao Sisnama?
+    Onde consultar os dados do Sinima?
+
+-----------
+O Sinima se integra ao Sisnama como o seu braço tecnológico e informativo, funcionando como o sistema de comunicação que une todos os órgãos da rede. 
+
+Enquanto o Sisnama é a estrutura institucional (os órgãos), o Sinima é a plataforma que permite a esses órgãos compartilhar dados e gerir o meio ambiente de forma integrada. 
+
+Essa integração ocorre principalmente das seguintes formas:
+
+    Intercâmbio de Dados entre Esferas: O Sinima estabelece protocolos para que o fluxo de informações seja contínuo entre órgãos federais (como Ibama e ICMBio), estaduais e municipais, combatendo a fragmentação de dados.
+    
+    Instrumento de Gestão Compartilhada: Ele é o meio pelo qual o Ministério do Meio Ambiente (MMA), como órgão central do Sisnama, coordena o intercâmbio de informações ambientais no país.
+    
+    Suporte ao Licenciamento: Com as novas legislações, órgãos licenciadores de todo o Sisnama (municípios, estados e união) são obrigados a alimentar o Sinima, garantindo que o licenciamento ambiental seja transparente e baseado em dados atualizados por toda a rede.
+    
+    Padronização: O sistema fornece as normas e tecnologias necessárias para que diferentes instituições produzam e acessem informações ambientais seguindo o mesmo padrão. 
+
+Em resumo, o Sisnama fornece os "braços" (fiscalização, normas, licenciamento), e o Sinima fornece a "memória e inteligência" para que esses braços atuem de forma coordenada. 

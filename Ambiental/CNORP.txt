@@ -1,0 +1,29 @@
+O Cadastro Nacional de Operadores de Resíduos Perigosos (CNORP)
+
+é um sistema obrigatório do IBAMA
+
+que registra empresas envolvidas no manejo de resíduos Classe 1 (perigosos).
+
+Ele visa controlar geradores, transportadores e tratadores para evitar riscos ambientais e de saúde. 
+
+A inscrição é feita no sistema do IBAMA. 
+
+Detalhes Principais do CNORP:
+
+    Finalidade: Instrumento da Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010), voltado ao controle de resíduos com características como toxicidade, inflamabilidade ou corrosividade.
+    
+    Quem deve se cadastrar: Pessoas jurídicas que geram, transportam, armazenam, tratam ou destinam resíduos perigosos (ex: baterias, lâmpadas, resíduos industriais).
+    
+    Como funciona: O CNORP está integrado ao Cadastro Técnico Federal de Atividades Potencialmente Poluidoras (CTF/APP) do IBAMA. As empresas devem manter o CTF/APP atualizado e declarar as movimentações no RAPP (Relatório de Atividades Potencialmente Poluidoras).
+    
+    Requisito técnico: É necessário ter um responsável técnico habilitado para o gerenciamento de resíduos. 
+
+O não cumprimento dessas obrigações pode resultar em sanções ambientais. 
+
+-----
+
+Para verificar se sua empresa precisa de orientações específicas, você poderia me informar:
+
+    Qual é o tipo de resíduo perigoso que sua empresa gera ou manuseia?
+    
+    Sua empresa já possui o Cadastro Técnico Federal (CTF/APP) no IBAMA?

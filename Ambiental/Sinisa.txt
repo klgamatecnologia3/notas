@@ -1,0 +1,20 @@
+O Sistema Nacional de Informações em Saneamento Básico (Sinisa)
+
+é uma ferramenta do Ministério das Cidades, criada em 2024 para substituir o SNIS, 
+que coleta, organiza e divulga dados sobre os quatro componentes do saneamento:
+
+água, esgoto, resíduos sólidos e drenagem.
+
+Ele monitora a eficiência dos serviços e é essencial para os municípios acessarem recursos federais. 
+
+Principais aspectos do SINISA:
+
+    Abrangência: Aumentada para cobrir os quatro componentes e incluir dados de áreas rurais, superando o foco urbano do antigo SNIS.
+
+    Nova Plataforma: Lançada para reunir informações detalhadas de mais de 5,5 mil municípios, alinhada com o Novo Marco Regulatório do Saneamento (Lei nº 14.026/2020).
+
+    Obrigatoriedade e Impacto: O envio regular de dados ao SINISA é crucial para a adimplência municipal, permitindo o recebimento de verbas federais para obras.
+
+    Transparência: Oferece indicadores de desempenho que auxiliam na regulação e na formulação de políticas públicas. 
+
+O SINISA funciona como o principal repositório de dados oficiais para planejar melhorias no setor.

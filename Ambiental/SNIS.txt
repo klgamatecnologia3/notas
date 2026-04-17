@@ -1,0 +1,25 @@
+O SNIS (Sistema Nacional de Informações sobre Saneamento)
+
+foi, por quase três décadas, o principal banco de dados do setor no Brasil. 
+
+Criado em 1995, ele consolidou informações operacionais, gerenciais e financeiras fornecidas anualmente pelos prestadores de serviço. 
+
+A partir de 2024, o SINISA (Sistema Nacional de Informações em Saneamento Básico) sucedeu o SNIS para atender às exigências do Novo Marco Legal do Saneamento (Lei nº 14.026/2020). 
+
+Principais Diferenças entre SNIS e SINISA:
+
+    Característica 	        SNIS (Antigo)	                                                                SINISA (Novo)
+
+    Abrangência Geográfica	Foco predominante em áreas urbanas.	                                            Inclusão obrigatória de dados de áreas rurais.
+    
+    Componentes             Dados de água e esgoto eram frequentemente consolidados em um único módulo.	    Separação clara dos módulos de água e esgoto para maior detalhamento.
+    
+    Participantes	        Alimentado majoritariamente por prestadores de serviço.	                        Inclusão de novos agentes, como entidades reguladoras e gestores municipais.
+    
+    Auditoria e Dados	    Baseado em informações autodeclaratórias, com limitações de auditoria.	        Processos de validação mais rigorosos e foco em interoperabilidade com outros sistemas (como o SNIRH).
+    
+    Módulos de Gestão	    Estrutura modular mais limitada.	                                            Inovação com módulos específicos para Gestão Municipal, Regulação e Saneamento Rural.
+   
+Enquanto o SNIS foi fundamental para criar uma série histórica de dados no país, o SINISA do Governo Federal foi projetado para ser uma plataforma mais moderna e transparente, essencial para que municípios comprovem o cumprimento de metas e acessem financiamentos públicos. 
+
+Gostaria de saber como os municípios podem consultar esses novos indicadores ou como a falta de dados pode afetar o recebimento de verbas?
